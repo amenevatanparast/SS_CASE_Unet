@@ -59,3 +59,21 @@ On fetal cerebellum ultrasound segmentation, SS_CASE_UNet achieved:
 ---
 
 ## 📂 Repository Structure
+
+
+---
+
+## 📊 Visual Results
+![Segmentation Examples](results/segmentation_examples.png)  
+*SS_CASE_Unet demonstrates superior segmentation compared to other state-of-the-art methods.*
+
+---
+
+## 📌 Citation
+If you use this repository, please cite our paper:
+@article{vatanparast2025sscaseunet,
+title={SS_CASE_UNet: An Attention-Enhanced Semi-Supervised Framework for Fetal Cerebellum Segmentation in Ultrasound Images},
+author={Vatanparast, Amene and Fateh, Mansoor and Mashayekhi, Hoda},
+year={2026},
+journal={Under Review/Submitted}
+}
