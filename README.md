@@ -77,3 +77,17 @@ author={Vatanparast, Amene and Fateh, Mansoor and Mashayekhi, Hoda},
 year={2026},
 journal={Under Review/Submitted}
 }
+
+
+---
+
+## 📧 Contact
+For questions, please contact:  
+📩 *mansoor_fateh@shahroodut.ac.ir*  
+*amene.vatanparast@gmail.com*
+
+---
+
+## ⭐ Acknowledgments
+This work was carried out at the **Faculty of Computer Engineering, Shahrood University of Technology, Iran.**  
+We thank the community for open-source frameworks that made this work possible.
