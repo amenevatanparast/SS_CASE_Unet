@@ -1,4 +1,3 @@
-```markdown
 # SS_CASE_UNet: An Attention-Enhanced Semi-Supervised Framework for Fetal Cerebellum Segmentation
 
 This repository contains the resources for the paper:
@@ -60,51 +59,3 @@ On fetal cerebellum ultrasound segmentation, SS_CASE_UNet achieved:
 ---
 
 ## 📂 Repository Structure
-```
-
-├── models/            # Model architectures (U-Net, SS\_CASE\_Unet, etc.)
-├── data/              # Data loading & augmentation scripts
-├── training/          # Semi-supervised training pipeline
-├── results/           # Evaluation results, metrics, and visualizations
-├── utils/             # Helper functions (metrics, visualization, Grad-CAM, etc.)
-└── README.md          # Project description
-
-```
-
----
-
-## 📊 Visual Results
-![Segmentation Examples](results/segmentation_examples.png)  
-*SS_CASE_Unet demonstrates superior segmentation compared to other state-of-the-art methods.*
-
----
-
-## 📌 Citation
-If you use this repository, please cite our paper:
-
-```
-
-@article{vatanparast2025sscaseunet,
-title={SS\_CASE\_UNet: An Attention-Enhanced Semi-Supervised Framework for Fetal Cerebellum Segmentation in Ultrasound Images},
-author={Vatanparast, Amene and Fateh, Mansoor and Mashayekhi, Hoda},
-year={2025},
-journal={Under Review/Submitted}
-}
-
-```
-
----
-
-## 📧 Contact
-For questions, please contact:  
-📩 *mansoor_fateh@shahroodut.ac.ir*
-    *amene.vatanparast@gmail.com*
-
----
-
-## ⭐ Acknowledgments
-This work was carried out at the **Faculty of Computer Engineering, Shahrood University of Technology, Iran.**  
-We thank the community for open-source frameworks that made this work possible.
-```
-
----
